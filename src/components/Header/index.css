@@ -1,0 +1,43 @@
+.header-container{
+    background-color: #000000;
+    width: 100%;
+}
+.company-name{
+    color: #ffffff;
+    padding: 10px;
+    font-weight: 300;
+    font-size: 26px;
+    font-family: Encode Sans;
+}
+.react-icons{
+    color: #ffffff;
+    width: 24px;
+    height: 24px;
+    top: 21px;
+    left: 1093px;
+    padding: 3px;
+    margin-left: 10px;
+}
+.header-alignment{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   line-height: 0px;
+}
+.header-products-category-container{
+    display: flex;
+    justify-content: center;
+    line-height: 0px;
+}
+.header-category{
+    color: #E5DFD9;
+    margin-left: 30px;
+    font-family: Encode Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    cursor: pointer;
+
+}

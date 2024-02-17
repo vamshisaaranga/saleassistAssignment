@@ -1,0 +1,34 @@
+.product-image{
+   height : 270px;
+   width: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.product-title{
+    color: #f7f7f7;
+    font-size: 16px;
+    font-family: Encode Sans;
+    font-weight: 100;
+    margin: 10px;
+}
+.product-container{
+    width: 200px;
+    margin: 10px;
+    background-color: #373737;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.rupee-icon{
+    color: #f7f7f7;
+    margin: 10px;
+    height: 16px;
+}
+.product-price{
+    color: #f7f7f7;
+    font-size: 16px;
+}
+.card-price-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

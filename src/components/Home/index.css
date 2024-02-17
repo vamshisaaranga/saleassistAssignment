@@ -1,0 +1,19 @@
+.page-container{
+    background-color: #000000;
+    min-height: 100vh;
+}
+.images-container{
+    display: flex;
+    justify-content: space-around;
+}
+@media(max-width : 767px){
+    .bagImage{
+        height: 30px;
+    }
+}
+
+.products-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
